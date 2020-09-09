@@ -3,3 +3,9 @@
 ################################################################################
 
 /01——简单TCP_UDP/LocalHostInfo/Debug
+/01——简单TCP_UDP/NetTime/Debug
+/01——简单TCP_UDP/TCPClient/Debug
+/01——简单TCP_UDP/TCPServer/Debug
+/01——简单TCP_UDP/UDPClient/Debug
+/01——简单TCP_UDP/GetAllIps/Debug
+/01——简单TCP_UDP/UDPServer/Debug
